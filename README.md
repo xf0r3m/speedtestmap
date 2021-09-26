@@ -9,7 +9,7 @@ __Wymagania__:
 
 __Instalacja__:
 
-1. git clone https://git.morketsmerke.net/xf0r3m/speedtestmap.git
+1. git clone https://github.com/xf0r3m/speedtestmap.git
 2. sudo cp speedtestmap/* /var/www/html
 3. chown -R www-data:www-data /var/www/html
 4. chmod -R 775 /var/www/html
